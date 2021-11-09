@@ -1,5 +1,5 @@
 ## Hi. I'm Gizem!👩‍💻
-☘️ I'm Fullstack Web Developer Trainee @clarusway
+☘️ I'm Fullstack Web Developer Trainee @Clarusway
 <br><br>
 I’m currently improving my JavaScript | React | Bootstrap | SASS | HTML | CSS skills ❤️ 
 <br>
