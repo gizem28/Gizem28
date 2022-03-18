@@ -1,5 +1,5 @@
 ## Hi. I'm Gizem!👩‍💻
-☘️ I'm front-end developer
+☘️ I'm fullstack developer
 <br><br>
 I’m currently improving my JavaScript | React | Bootstrap | SASS | HTML | CSS and back-end skills ❤️ 
 <br>
