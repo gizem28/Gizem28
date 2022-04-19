@@ -1,7 +1,7 @@
 ## Hi. I'm Gizem!👩‍💻
 ☘️ I'm fullstack developer
 <br><br>
-I’m currently improving my JavaScript | React | Bootstrap | SASS | HTML | CSS and back-end skills ❤️ 
+I’m currently improving my JavaScript | React | Python | Django frontend and backend skills ❤️ 
 <br>
 
 
