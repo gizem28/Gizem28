@@ -33,4 +33,4 @@ I’m currently improving my JavaScript | React | Python | Django frontend and b
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizem28&show_icons=true&hide=issues&theme=radical&show_icons=true)
 
 
-<img src=https://komarev.com/ghpvc/?username = gizem28/>
+<img src="https://komarev.com/ghpvc/?username=gizem28"/>
