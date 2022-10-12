@@ -1,4 +1,4 @@
-![Hello I'm Gizem](\documents\portfolio2.png)
+![Hello I'm Gizem](\documents\portfolio2.png) {align=center}
 
 <img align="" alt="Hello" width="200px"  src="documents\portfolio2.png"/>
 
