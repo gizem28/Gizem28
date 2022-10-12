@@ -1,4 +1,4 @@
-![Hello I'm Gizem](\Skrivebord\documents\portfolio2.png)
+![Hello I'm Gizem](\documents\portfolio2.png)
 
 <img align="" alt="Hello" width="200px"  src=""/>
 
