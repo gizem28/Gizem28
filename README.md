@@ -2,6 +2,7 @@
 
 <img align="" alt="Hello" width="200px"  src="documents\portfolio2.png"/>
 
+![portfolio2](https://user-images.githubusercontent.com/85316264/195458882-b9c2eed6-b6ed-4091-b9ab-d634566ba1dc.png)
 
 
 ### 📬 Connect with me: 
