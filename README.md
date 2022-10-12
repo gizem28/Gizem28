@@ -1,4 +1,4 @@
-![portfloio2.png](.\documents\portfolio2.png)
+![portfloio2.png](documents\portfolio2.png)
 
 <img align="" alt="Hello" width="200px"  src=""/>
 
