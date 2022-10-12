@@ -1,8 +1,6 @@
-## Hi. I'm Gizem!👩‍💻
-☘️ I'm fullstack developer
-<br><br>
-I’m currently improving my JavaScript | React | Python | Django frontend and backend skills ❤️ 
-<br>
+![portfloio2.png]("C:\Users\gizem\OneDrive\Skrivebord\documents\portfolio2.png")
+<img align="" alt="Hello" width="200px"  src=""/>
+
 
 
 ### 📬 Connect with me: 
