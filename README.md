@@ -1,6 +1,6 @@
 ![Hello I'm Gizem](\documents\portfolio2.png)
 
-<img align="" alt="Hello" width="200px"  src=""/>
+<img align="" alt="Hello" width="200px"  src="documents\portfolio2.png"/>
 
 
 
