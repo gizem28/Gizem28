@@ -10,7 +10,8 @@
 📧 gizemodun28@gmail.com
 <br>
 
-## 🔧 Languages and Tools:
+
+## <img alt='Programming' width='40px' src='https://user-images.githubusercontent.com/85316264/211221501-00359fe0-ef5c-4337-862a-5fd318a931c5.png'/>   Languages and Tools:
 <img align="left" alt="React" width="60px" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 <img align="left" alt="Js" width="50px" src="https://user-images.githubusercontent.com/85316264/211220728-180c3914-5cb1-46d4-850f-d0db93942912.png"/>
 <img align="left" alt="Figma" width="50px"  src="https://user-images.githubusercontent.com/85316264/211220672-278855c5-a86a-4d95-a78f-a7fb9db8e052.png"/>
