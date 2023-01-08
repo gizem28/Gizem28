@@ -1,4 +1,6 @@
-![portfolio2](https://user-images.githubusercontent.com/85316264/195458882-b9c2eed6-b6ed-4091-b9ab-d634566ba1dc.png)
+![portfolio6](https://user-images.githubusercontent.com/85316264/211220422-3a6f03bd-8806-49c9-9b27-61bf99016833.gif)
+
+
 
 
 ### 📬 Connect with me: 
