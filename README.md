@@ -30,6 +30,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizem28&show_icons=true&hide=issues&theme=radical&show_icons=true)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight)
 
 
 <img src="https://komarev.com/ghpvc/?username=gizem28"/>
