@@ -35,3 +35,5 @@
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gizem28&theme=tokyonight)
 
 <img src="https://komarev.com/ghpvc/?username=gizem28"/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=gizem28&theme=tokyonight)
