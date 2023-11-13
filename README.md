@@ -7,6 +7,8 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/)
 &nbsp;
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/) - Follow me!
+
 📧 gizemodun28@gmail.com
 <br>
 
