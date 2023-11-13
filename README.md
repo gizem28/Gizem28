@@ -5,11 +5,12 @@
 
 ### 📬 Connect with me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/)
-&nbsp;
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/) - Follow me!
+### 📬 Connect with Me:
 
-📧 gizemodun28@gmail.com
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/) - Follow Gizem Ödün on LinkedIn!
+&nbsp;
+📧 [gizemodun28@gmail.com](mailto:gizemodun28@gmail.com) - Email me!
+
 <br>
 
 
