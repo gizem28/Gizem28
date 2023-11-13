@@ -3,13 +3,15 @@
 
 
 
-### 📬 Connect with me: 
+### 🌟 Connect with me:
 
-### 📬 Connect with Me:
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/) - Follow Gizem Ödün on LinkedIn!
-&nbsp;
-📧 [gizemodun28@gmail.com](mailto:gizemodun28@gmail.com) - Email me!
+🔗 **Let's Connect on LinkedIn**
+[![LinkedIn Badge](https://img.shields.io/badge/-GizemÖdün-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/)](https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/)
+
+📧 **Drop Me an Email**
+[![Email Badge](https://img.shields.io/badge/-Email_me-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gizemodun28@gmail.com)](mailto:gizemodun28@gmail.com)
+
 
 <br>
 
