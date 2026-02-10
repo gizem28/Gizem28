@@ -35,7 +35,7 @@
 <br>
 
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight)
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=gizem28&theme=tokyonight)
