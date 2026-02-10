@@ -38,6 +38,4 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=gizem28)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=gizem28&theme=tokyonight&no-cache=1)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=gizem28&style=flat-square)
