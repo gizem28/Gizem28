@@ -1,6 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Gizem%20Temizer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Oslo%2C%20Norway&descAlignY=58&descSize=18&descColor=ffffffbb)
+![header](https://raw.githubusercontent.com/gizem28/gizem28/main/gizem_header.svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%2B+Next.js+%2B+TypeScript;Python+%7C+FastAPI+%7C+PostgreSQL;AI+Systems+Builder;Based+in+Oslo+%F0%9F%87%B3%F0%9F%87%B4)](https://git.io/typing-svg)
 
