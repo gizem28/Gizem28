@@ -89,10 +89,5 @@ Exploring natural language processing, text summarization, and AI-assisted appli
 
 </div>
 
----
-
-<div align="center">
-<sub>Software is more than code. It is how ideas become useful.</sub>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:29245C,100:6759C8&height=95&section=footer" alt="" />
 </div>
