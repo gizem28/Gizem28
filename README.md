@@ -25,6 +25,14 @@
 
 <br>
 
+<div align="center">
+
+<img width="85%" src="https://user-images.githubusercontent.com/85316264/211220422-3a6f03bd-8806-49c9-9b27-61bf99016833.gif" alt="Portfolio animation" />
+
+</div>
+
+<br>
+
 ### 01 / Profile
 
 I develop web applications with an emphasis on **clear interfaces, maintainable code, and practical problem-solving**. My work spans **React development, Shopify customization, and workflow integration**, supported by a background in information technology.
