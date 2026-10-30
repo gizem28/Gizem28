@@ -1,12 +1,20 @@
 <div align="center">
 
-<img width="100%" alt="Gizem Temizer | Software Developer" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,55:29245C,100:6759C8&height=175&section=header&text=GIZEM%20TEMIZER&fontSize=42&fontColor=ffffff&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%20%2F%20%20WEB%20%26%20APPLIED%20AI&descSize=14&descAlignY=69&descColor=D9D6FF" />
+<img width="100%" alt="Gizem Temizer | Software Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:29245C,100:6759C8&height=215&animation=fadeIn&section=header&text=GIZEM%20TEMIZER&fontSize=42&fontColor=ffffff&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%20%2F%20%20WEB%20%26%20APPLIED%20AI&descSize=14&descAlignY=69&descColor=D9D6FF" />
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=750&color=988AFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-stack+web+development;Building+with+React+%26+Python;Exploring+applied+AI+%26+NLP" alt="Animated developer specializations" /></a>
 
 <br>
 
 **From interface to infrastructure — designing software that works.**
 
 <sub>Norway · Information Technology, OsloMet</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gizem28&label=PROFILE%20VIEWS&color=7566D9&style=for-the-badge" alt="Profile view counter" />
 
 <br><br>
 
@@ -66,11 +74,23 @@ Exploring natural language processing, text summarization, and AI-assisted appli
 ### 04 / GitHub
 
 <div align="center">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=gizem28&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+
+
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight" alt="GitHub contribution activity" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1800&color=8F83D9&center=true&vCenter=true&width=520&lines=Create.+Iterate.+Improve.;Design+with+intent.+Build+with+care." alt="Animated closing lines" />
+
 </div>
 
 ---
 
 <div align="center">
 <sub>Software is more than code. It is how ideas become useful.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:29245C,100:6759C8&height=95&section=footer" alt="" />
 </div>
