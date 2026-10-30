@@ -1,116 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17153B,50:6C63FF,100:9D8DFF&height=220&section=header&text=Gizem%20Temizer&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web%20Engineering&descAlignY=60&descSize=17&animation=fadeIn" alt="Gizem Temizer — Full-Stack Developer" />
+<img width="100%" alt="Gizem Temizer | Software Developer" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,55:29245C,100:6759C8&height=175&section=header&text=GIZEM%20TEMIZER&fontSize=42&fontColor=ffffff&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%20%2F%20%20WEB%20%26%20APPLIED%20AI&descSize=14&descAlignY=69&descColor=D9D6FF" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8B83FF&center=true&vCenter=true&width=700&lines=Building+thoughtful+digital+experiences;React+%E2%80%A2+TypeScript+%E2%80%A2+Python;From+interfaces+to+intelligent+systems;Always+learning%2C+always+building" alt="Typing introduction" /></a>
+<br>
 
-<a href="https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/gizem28?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=gizem28&label=Profile%20views&color=7665D8&style=for-the-badge" alt="Profile views" />
+**From interface to infrastructure — designing software that works.**
+
+<sub>Norway · Information Technology, OsloMet</sub>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7469CE?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/gizem28?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-202538?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-### 👩‍💻 About me
+### 01 / Profile
 
-I'm a **full-stack developer** based in **Norway**, with a background in **Information Technology** and hands-on experience building web experiences, e-commerce features, and application interfaces.
+I develop web applications with an emphasis on **clear interfaces, maintainable code, and practical problem-solving**. My work spans **React development, Shopify customization, and workflow integration**, supported by a background in information technology.
 
-I enjoy connecting **clean, accessible frontends** with reliable backend systems—and exploring how **AI can make products more useful**.
+I'm also interested in **applied AI and natural language processing**, particularly turning complex information into useful product experiences.
 
-- 💻 **What I build:** Responsive web apps, e-commerce solutions, and practical automations
-- 🧠 **What interests me:** Applied AI, natural language processing, software architecture, and developer tooling
-- 🎓 **Background:** Information Technology at Oslo Metropolitan University (OsloMet)
-- 🌍 **Location:** Norway
-- 🌱 **Currently exploring:** LLM applications, retrieval-augmented generation (RAG), and modern AI workflows
-- 🤝 **Open to:** Interesting software engineering projects and collaborations
+### 02 / Technology
 
-### 🛠️ Tech stack
+<table>
+<tr>
+<td width="25%"><b>Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React, TypeScript, JavaScript, HTML and CSS" /></td>
+</tr>
+<tr>
+<td><b>Programming</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java" /></td>
+</tr>
+<tr>
+<td><b>Data & tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,docker,git,linux&theme=dark" alt="PostgreSQL, Docker, Git and Linux" /></td>
+</tr>
+</table>
 
-**Frontend & user experience**
+**Additional experience:** Shopify Liquid · SQL · REST APIs · WordPress · UI/UX
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
-</p>
-
-**Backend & programming**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,java,cpp&theme=dark" alt="Python, FastAPI, Node.js, Express, Java, C++" />
-</p>
-
-**Data, development & design tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode,figma&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux, VS Code, Figma" />
-</p>
-
-**Also working with:** Shopify Liquid · REST APIs · SQL · WordPress · Responsive Design · UI/UX
-
-> **Learning & exploring:** LLM integration · RAG · Vector databases · AI agents · CI/CD · Cloud deployment
->
-> These are areas of ongoing learning, not a claim of production-level expertise.
-
-### ✨ Areas I enjoy working in
+### 03 / Selected focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Full-stack web development**
+**WEB ENGINEERING**
 
-Building useful products with modern frontend frameworks, APIs, databases, and maintainable code.
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 AI-powered applications**
-
-Exploring NLP, text summarization, and how machine learning can be integrated into practical user-facing tools.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛒 E-commerce engineering**
-
-Customizing Shopify storefronts, Liquid templates, product experiences, and workflow integrations.
+React interfaces, e-commerce functionality, API integration, and maintainable application design.
 
 </td>
 <td width="50%" valign="top">
 
-**🎨 Product thinking & UX**
+**APPLIED AI**
 
-Designing clear, accessible interfaces informed by usability and real user needs.
+Exploring natural language processing, text summarization, and AI-assisted applications.
 
 </td>
 </tr>
 </table>
 
-### 📈 GitHub activity
+### 04 / GitHub
 
 <div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight" alt="GitHub contribution overview" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gizem28&theme=tokyonight" alt="GitHub statistics" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gizem28&theme=tokyonight&utcOffset=1" alt="GitHub productive time" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=gizem28&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
-
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gizem28&theme=tokyonight" alt="GitHub contribution activity" />
 </div>
 
-### 💬 Let's connect
-
-I'm interested in **building useful technology, learning from other developers, and collaborating on thoughtful software projects**.
+---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<sub>Thanks for visiting — keep building, keep learning. ✨</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17153B,50:6C63FF,100:9D8DFF&height=110&section=footer" alt="" />
-
+<sub>Software is more than code. It is how ideas become useful.</sub>
 </div>
