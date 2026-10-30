@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" alt="Gizem Temizer | Software Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:29245C,100:6759C8&height=215&animation=fadeIn&section=header&text=GIZEM%20TEMIZER&fontSize=42&fontColor=ffffff&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%20%2F%20%20WEB%20%26%20APPLIED%20AI&descSize=14&descAlignY=69&descColor=D9D6FF" />
-
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=750&color=988AFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-stack+web+development;Building+with+React+%26+Python;Exploring+applied+AI+%26+NLP" alt="Animated developer specializations" /></a>
@@ -9,10 +7,6 @@
 <br>
 
 **From interface to infrastructure — designing software that works.**
-
-<sub>Norway · Information Technology, OsloMet</sub>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gizem28&label=PROFILE%20VIEWS&color=7566D9&style=for-the-badge" alt="Profile view counter" />
 
