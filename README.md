@@ -38,7 +38,7 @@ I'm also interested in **applied AI and natural language processing**, particula
 </tr>
 <tr>
 <td><b>Programming</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,dotnet,nodejs&theme=dark" alt="Python, Java, .NET and Node.js" /></td>
 </tr>
 <tr>
 <td><b>Data & tooling</b></td>
