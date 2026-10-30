@@ -10,7 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=gizem28&label=PROFILE%20VIEWS&color=7566D9&style=for-the-badge" alt="Profile view counter" />
 <a href="https://www.linkedin.com/in/gizem-%C3%B6d%C3%BCn-3aa3b9212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7469CE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/gizem28?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-202538?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
